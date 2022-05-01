@@ -1,4 +1,5 @@
 # Gi_Course
-I`m just tring
-##I`m suhaib
+I am just tring
+
+## I am suhaib
 suhaib mousa
